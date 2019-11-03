@@ -25,7 +25,9 @@ SECRET_KEY = 'pu(w@!(zjr-7)628=%@v#z)a0r21mp@$f-plrp^gl3o76&ow0^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'enigmatic-badlands-91038.herokuapp.com'
+]
 
 
 # Application definition
